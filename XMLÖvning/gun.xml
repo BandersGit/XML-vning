@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<Gun xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>Hinken</name>
+  <dmg>35</dmg>
+  <reloadSpeed>35</reloadSpeed>
+</Gun>
