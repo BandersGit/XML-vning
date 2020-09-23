@@ -28,7 +28,6 @@ namespace XMLÖvning
             gunSerializer.Serialize(file, smg);
 
             file.Close();
-
         }
     }
 }
